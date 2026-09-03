@@ -8,8 +8,6 @@ Graduate student at the **University of Chinese Academy of Sciences (UCAS)**, cu
 
 ### ⏱️ Time Partner
 
-**Private Source · Active Development**
-
 A cross-platform investment tracking and recurring-investment planning product designed for long-term investors. The product is being built with a WeChat Mini Program as the first client, with the same client architecture intended to support iOS and Android later.
 
 **Engineering highlights**
@@ -27,8 +25,6 @@ A cross-platform investment tracking and recurring-investment planning product d
 ---
 
 ### ◼️ Zero Matrix
-
-**Private Source · Active Development**
 
 An engineering and content-infrastructure project covering a company website, structured financial-content standards, deterministic validation/rendering pipelines, and local automation tooling.
 
