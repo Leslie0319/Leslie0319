@@ -2,7 +2,7 @@
 
 Graduate student at the **University of Chinese Academy of Sciences (UCAS)**, currently studying cryptography and privacy-preserving computation.
 
-I also build software projects through **Zero Matrix Technology**, mainly around full-stack development, automation and data tooling.
+I founded **Zero Matrix Technology**, where I work on software projects involving full-stack development, automation, and data tooling.
 
 ## Featured Projects
 
