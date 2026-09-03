@@ -1,8 +1,8 @@
 # Leslie0319
 
-The founder of Zero Matrix Technology. Building practical software products with a focus on **full-stack engineering, automation, data reliability, and AI-assisted workflows**.
+The founder of Zero Matrix Technology. Building practical software products with a focus on full-stack engineering, automation, data reliability, and AI-assisted workflows.
 
-Graduate student at the **University of Chinese Academy of Sciences (UCAS)**, currently studying **cryptography and privacy-preserving computation**.
+Graduate student at the University of Chinese Academy of Sciences (UCAS), currently studying cryptography and privacy-preserving computation.
 
 ## Featured Projects
 
