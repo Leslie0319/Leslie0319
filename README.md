@@ -67,5 +67,4 @@ Other public repositories may contain study notes, smaller experiments or reprod
 
 
 ## Repository Visibility
-
-Some source repositories are intentionally private. For selected private projects, this profile provides public overview pages containing only repository names, project descriptions, selected engineering highlights and technology choices. Source code, commits, issues, pull requests and internal documentation remain private.
+Selected project overviews are public; source repositories may remain private.
