@@ -12,9 +12,9 @@ A cross-platform investment tracking and recurring-investment planning product d
 
 **Engineering highlights**
 
-- Cross-platform client for WeChat Mini Program with future iOS/Android reuse
-- Portfolio, recurring-investment and transaction tracking
-- Local-first architecture with shared TypeScript domain models
+- Cross-platform client architecture, starting with a WeChat Mini Program and designed for future iOS/Android reuse
+- End-to-end workflows for portfolio tracking, recurring-investment plans, transactions, and statistics
+- Local-first data model with valuation- and drawdown-based calculation tools
 
 **Tech:** `uni-app` · `Vue 3` · `TypeScript` · `NestJS` · `PostgreSQL`
 
