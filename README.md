@@ -26,12 +26,9 @@ An engineering and content-infrastructure project covering a company website, st
 
 **Engineering highlights**
 
-- Static company website and deployment workflow
-- Structured data as the source of truth instead of free-form AI output
-- Schema validation and blocker/warning quality gates
-- Versioned templates and reproducible PNG/ZIP content generation
-- Manifest and SHA-256 based traceability
-- Human verification boundaries for AI-assisted workflows
+- Structured-data-first content pipeline with schema validation and explicit quality gates before rendering
+- Deterministic, versioned generation pipeline for reproducible PNG/ZIP outputs with manifest-based traceability
+- AI-assisted workflow that separates generation from data verification, keeping high-risk facts under explicit human review
 
 **Tech:** `Astro` · `TypeScript` · `Node.js` · `Zod` · `Cloudflare Workers` · `GitHub Actions`
 
