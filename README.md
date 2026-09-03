@@ -65,14 +65,6 @@ These are smaller learning and engineering-practice repositories rather than sta
 
 Other public repositories may contain study notes, smaller experiments or reproductions and are not highlighted as representative projects here.
 
-## Engineering Focus
-
-- Full-stack TypeScript development
-- Cross-platform application engineering
-- Data validation and reproducible pipelines
-- Automation and developer tooling
-- AI-assisted systems with explicit verification boundaries
-- Product architecture and long-term maintainability
 
 ## Repository Visibility
 
