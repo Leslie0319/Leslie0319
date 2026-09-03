@@ -1,12 +1,12 @@
 # Leslie0319
 
-The founder of Zero Matrix Technology. Building practical software products with a focus on full-stack engineering, automation, data reliability, and AI-assisted workflows.
+Founder of Zero Matrix Technology, building practical software products with a focus on full-stack engineering, automation, data reliability, and AI-assisted workflows.
 
 Graduate student at the University of Chinese Academy of Sciences (UCAS), currently studying cryptography and privacy-preserving computation.
 
 ## Featured Projects
 
-### ⏱️ Time Partner
+### ⏱️ [Time Partner](./projects/time-partner.md)
 
 A cross-platform investment tracking and recurring-investment planning product designed for long-term investors. The product is being built with a WeChat Mini Program as the first client, with the same client architecture intended to support iOS and Android later.
 
@@ -20,11 +20,9 @@ A cross-platform investment tracking and recurring-investment planning product d
 
 **Tech:** `uni-app` · `Vue 3` · `TypeScript` · `NestJS` · `PostgreSQL`
 
-> Source code, commits, issues, pull requests and internal documentation are private.
-
 ---
 
-### ◼️ Zero Matrix
+### ◼️ [Zero Matrix](./projects/zero-matrix.md)
 
 An engineering and content-infrastructure project covering a company website, structured financial-content standards, deterministic validation/rendering pipelines, and local automation tooling.
 
@@ -39,26 +37,33 @@ An engineering and content-infrastructure project covering a company website, st
 
 **Tech:** `Astro` · `TypeScript` · `Node.js` · `Zod` · `Cloudflare Workers` · `GitHub Actions`
 
-Private repositories in this project family:
+Private repository family with public overviews:
 
-- `zero-matrix-company`
-- `zero-matrix-web`
-- `zero-matrix-finance-content`
-- `zero-matrix-content-tools`
-
-> Repository contents and internal implementation details remain private.
+- [`zero-matrix-company`](./projects/zero-matrix-company.md)
+- [`zero-matrix-web`](./projects/zero-matrix-web.md)
+- [`zero-matrix-finance-content`](./projects/zero-matrix-finance-content.md)
+- [`zero-matrix-content-tools`](./projects/zero-matrix-content-tools.md)
 
 ---
 
-## Selected Practice & Coursework
+## Earlier Academic Project
 
-These are smaller learning/practice repositories and are listed as such rather than presented as standalone products.
+### 🐦 [Wildlife Vocalization Monitoring and Identification System](./projects/wildlife-vocalization.md)
+
+A deep-learning-based academic project covering wildlife audio dataset construction, audio-event/species recognition, model serving and a full-stack web workflow for uploading audio and presenting recognition results.
+
+**Tech:** `Python` · `FastAPI` · `Spring Boot` · `Vue 3` · `MySQL`
+
+---
+
+## Selected Practice
+
+These are smaller learning and engineering-practice repositories rather than standalone products.
 
 - **[Xianyu AutoAgent Practice](https://github.com/Leslie0319/XianyuAutoAgent)** — Reproduced and ran an open-source AI customer-service agent for Xianyu, then refined prompts for intent classification, bargaining, technical support and general replies.
 - **[Pytest API Automation Practice](https://github.com/Leslie0319/Automated-testing-framework-based-on-pytest)** — Practice based on an open-source Pytest automation framework, mainly covering local setup, dependency/version compatibility, Mock service integration, test execution and debugging.
-- **[Computer Network Course Design](https://github.com/Leslie0319/Computer-network-course-design)** — Coursework implementing basic TCP/UDP socket communication in Python.
 
-Other public repositories may contain study notes, experiments, reproductions or learning copies of open-source projects. They are not presented as original standalone products.
+Other public repositories may contain study notes, smaller experiments or reproductions and are not highlighted as representative projects here.
 
 ## Engineering Focus
 
@@ -71,4 +76,4 @@ Other public repositories may contain study notes, experiments, reproductions or
 
 ## Repository Visibility
 
-Some projects listed on this profile are intentionally kept private. Their names, high-level product descriptions and selected technology choices are shown for portfolio purposes only.
+Some source repositories are intentionally private. For selected private projects, this profile provides public overview pages containing only repository names, project descriptions, selected engineering highlights and technology choices. Source code, commits, issues, pull requests and internal documentation remain private.
