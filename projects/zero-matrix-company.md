@@ -12,4 +12,4 @@ An internal company-level source-of-truth repository for **Zero Matrix Technolog
 - Product ownership and brand relationships
 - Versioned operational records
 
-The repository itself remains private because it contains internal company materials and source documents. This page intentionally exposes only a high-level overview.
+The repository itself remains private because it contains internal company materials and source documents.
