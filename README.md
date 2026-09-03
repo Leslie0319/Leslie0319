@@ -2,6 +2,8 @@
 
 Building practical software products with a focus on **full-stack engineering, automation, data reliability, and AI-assisted workflows**.
 
+Graduate student at the **University of Chinese Academy of Sciences (UCAS)**, currently studying **cryptography and privacy-preserving computation**.
+
 ## Featured Projects
 
 ### ⏱️ Time Partner
@@ -56,6 +58,7 @@ Private repositories in this project family:
 
 These are smaller learning/practice repositories and are listed as such rather than presented as standalone products.
 
+- **[Xianyu AutoAgent Practice](https://github.com/Leslie0319/XianyuAutoAgent)** — Reproduced and ran an open-source AI customer-service agent for Xianyu, then refined prompts for intent classification, bargaining, technical support and general replies. Listed here as an open-source reproduction and prompt-engineering practice rather than an original standalone project.
 - **[Pytest API Automation Practice](https://github.com/Leslie0319/Automated-testing-framework-based-on-pytest)** — Practice based on an open-source Pytest automation framework, mainly covering local setup, dependency/version compatibility, Mock service integration, test execution and debugging.
 - **[Computer Network Course Design](https://github.com/Leslie0319/Computer-network-course-design)** — Coursework implementing basic TCP/UDP socket communication in Python.
 
