@@ -1,16 +1,15 @@
-## Hi there 👋
+# Leslie0319
 
-<!--
-**Leslie0319/Leslie0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🔒 Private Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The following projects are under active development. Source code and repository contents are private.
+
+- **time-partner** — Private
+- **zero-matrix-company** — Private
+- **zero-matrix-web** — Private
+- **zero-matrix-finance-content** — Private
+- **zero-matrix-content-tools** — Private
+
+> Project names are shown publicly for portfolio purposes. Source code, commits, issues, pull requests, and internal documentation remain private.
