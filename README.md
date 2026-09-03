@@ -52,6 +52,15 @@ Private repositories in this project family:
 
 ---
 
+## Selected Practice & Coursework
+
+These are smaller learning/practice repositories and are listed as such rather than presented as standalone products.
+
+- **[Pytest API Automation Practice](https://github.com/Leslie0319/Automated-testing-framework-based-on-pytest)** — Practice based on an open-source Pytest automation framework, mainly covering local setup, dependency/version compatibility, Mock service integration, test execution and debugging.
+- **[Computer Network Course Design](https://github.com/Leslie0319/Computer-network-course-design)** — Coursework implementing basic TCP/UDP socket communication in Python.
+
+Other public repositories may contain study notes, experiments, reproductions or learning copies of open-source projects. They are not presented as original standalone products.
+
 ## Engineering Focus
 
 - Full-stack TypeScript development
