@@ -2,13 +2,13 @@
 
 > Public project overview. The source repository is private.
 
-**Time Partner** is a cross-platform investment tracking and recurring-investment planning product designed for long-term investors.
+**Time Partner** is an investment tracking and recurring-investment planning product designed for long-term investors.
 
-The product is being developed with a WeChat Mini Program as the first client, while keeping the client architecture reusable for future iOS and Android releases.
+The iOS version is nearing launch, with Android planned to follow.
 
 ## Engineering highlights
 
-- Cross-platform client architecture
+- iOS-first client architecture with planned Android support
 - Portfolio, recurring-investment plan, transaction and statistics workflows
 - Local-first data model with a path toward account sync
 - Valuation and drawdown-based calculation tools
