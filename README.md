@@ -8,11 +8,11 @@ I founded **Zero Matrix Technology**, where I work on software projects involvin
 
 ### ⏱️ [Time Partner](./projects/time-partner.md)
 
-A cross-platform investment tracking and recurring-investment planning product designed for long-term investors. The product is being built with a WeChat Mini Program as the first client, with the same client architecture intended to support iOS and Android later.
+An investment tracking and recurring-investment planning product designed for long-term investors. The iOS version is nearing launch, with Android planned to follow.
 
 **Engineering highlights**
 
-- Cross-platform client architecture, starting with a WeChat Mini Program and designed for future iOS/Android reuse
+- iOS-first client architecture, with Android planned as the next platform
 - End-to-end workflows for portfolio tracking, recurring-investment plans, transactions, and statistics
 - Local-first data model with valuation- and drawdown-based calculation tools
 
